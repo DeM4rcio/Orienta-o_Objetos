@@ -1,8 +1,8 @@
-##ORIENTAÇÃO A OBJETOS (PYTHON)
+## ORIENTAÇÃO A OBJETOS (PYTHON)
 
 Neste Repositório terá a aplicação de pequenos projetos envolvendo orientação a objetos. Cada implementação será atualizada.
 
-####MiniProjeto2
+#### MiniProjeto2
 
 O intuito deste projeto é criar um universo capaz de interagir com formas geométricas:
 
